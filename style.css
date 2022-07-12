@@ -1,0 +1,17 @@
+.Login{
+  border: 3px solid orange;
+  width: 250px;
+}
+
+.SignUp{
+  border: 3px solid red;
+  width: 250px;
+
+}
+
+#Box
+{
+  width: 500px;
+  height: 200px;
+  border: 5px solid purple;
+}
